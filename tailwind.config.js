@@ -6,7 +6,7 @@ module.exports = {
     extend: {
       colors: {
         neutral: colors.neutral,
-        primary: colors.sky,
+        primary: colors.green,
       },
     },
     container: {

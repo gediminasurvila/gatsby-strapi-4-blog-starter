@@ -5,7 +5,7 @@ import { GatsbyImage, getImage } from "gatsby-plugin-image"
 const ArticleCard = ({ article }) => {
   return (
     <Link
-      to={`/article/${article.slug}`}
+      to={`/istorijos/${article.slug}`}
       className="overflow-hidden rounded-lg bg-white shadow-sm transition-shadow hover:shadow-md"
     >
       <GatsbyImage
